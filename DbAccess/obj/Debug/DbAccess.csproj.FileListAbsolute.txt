@@ -1,0 +1,12 @@
+C:\Users\jason\source\repos\OOPdemo\DbAccess\bin\Debug\DbAccess.dll
+C:\Users\jason\source\repos\OOPdemo\DbAccess\bin\Debug\DbAccess.pdb
+C:\Users\jason\source\repos\OOPdemo\DbAccess\obj\Debug\DbAccess.csprojResolveAssemblyReference.cache
+C:\Users\jason\source\repos\OOPdemo\DbAccess\obj\Debug\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\OOPdemo\DbAccess\obj\Debug\DbAccess.dll
+C:\Users\jason\source\repos\OOPdemo\DbAccess\obj\Debug\DbAccess.pdb
+C:\C51\PersonalProject\DbAccess\bin\Debug\DbAccess.dll
+C:\C51\PersonalProject\DbAccess\bin\Debug\DbAccess.pdb
+C:\C51\PersonalProject\DbAccess\obj\Debug\DbAccess.csproj.CoreCompileInputs.cache
+C:\C51\PersonalProject\DbAccess\obj\Debug\DbAccess.dll
+C:\C51\PersonalProject\DbAccess\obj\Debug\DbAccess.pdb
+C:\C51\PersonalProject\DbAccess\obj\Debug\DbAccess.csprojResolveAssemblyReference.cache
